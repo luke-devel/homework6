@@ -1,0 +1,28 @@
+.nav h1{
+    font-size: 60px;
+   
+}
+
+.col-md-auto{
+    width: 300px;
+    height: 500px;
+    border-color: black;
+    border-width: 20px;
+}
+
+.col-md-auto p{
+    font-size: 20px;
+    font-weight: bold;
+    padding-top: 5px;
+}
+
+.form-control{
+    width: 20px;
+}
+
+.currentCondition{
+    background-color: grey;
+    height: 300px;
+    width: 700px;
+    border-color: black;
+}
