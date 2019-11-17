@@ -1,28 +1,26 @@
-.nav h1{
-    font-size: 60px;
-   
+.currentCondition{
+    border-style: solid;
+    width: 500px;
+    height: 100%;
 }
 
 .col-md-auto{
+    border-style: solid;
     width: 300px;
-    height: 500px;
-    border-color: black;
-    border-width: 20px;
+    height: 400px;
 }
 
 .col-md-auto p{
-    font-size: 20px;
     font-weight: bold;
-    padding-top: 5px;
+    padding-top: 15px;
+    text-align: center;
+    font-size: 20px;
 }
 
-.form-control{
-    width: 20px;
-}
-
-.currentCondition{
-    background-color: grey;
-    height: 300px;
-    width: 700px;
-    border-color: black;
+.fivedays{
+    margin-top: 198px;
+    margin-left: -2px;
+    width: 500px;
+    height: 200px;
+    border-style: solid;
 }
